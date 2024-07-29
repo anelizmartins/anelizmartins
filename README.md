@@ -2,7 +2,7 @@
 
 Meu nome é Aneliz Martins
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br]
 - Estou me desenvolvendo na linguagem JavaScriprt
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -11,3 +11,5 @@ Meu nome é Aneliz Martins
 aneliz.martins@escola.pr.gov.br
 
 @anelizmartins
+
+![](https://media.tenor.com/dcJ8m955YWYAAAAM/mommy-dance-dancing-grandma.gif)
